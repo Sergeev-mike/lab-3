@@ -1,0 +1,6 @@
+# lab-3
+Inheritance, polymorphism, encapsulation. Implemented classes rectangle, circle, cylinder, parallelepiped.
+В этом документе реализованы несколько классов, как основных, это Point2D. Далее при помощи этих двух классов,
+созданы классы Rectangle, Triangle, Circle. Эти классы могут многое, проще зайти в сам код и посмотреть
+(название методов, говорят сами за себя). Далее Point3D наследовала от Point2D. Rectangle3D наследовал от Rectangle.
+Сylinder наследовал от Circle. В Main приведён пример работы.
